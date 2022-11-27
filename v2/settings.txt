@@ -1,0 +1,26 @@
+=================================================
+DO NOT REMOVE ANY SETTINGS, OR CHANGE THEIR ORDER
+=================================================
+
+Mouse: true
+
+Key 1 (single capital letter, or number): Z
+Key 2 (single capital letter, or number): E
+
+Letterboxing: false
+osu! x resolution (width): 
+osu! y resolution (height): 
+Horizontal position (%): 
+Vertical position (%): 
+
+mouse.png x offset: 0
+mouse.png y offset: 0
+mouse.png scalar: 1
+
+tablet.png x offset: 11
+tablet.png y offset: -65
+tablet.png scalar: 1
+
+Background red: 255
+Background green: 255
+Background blue: 255
